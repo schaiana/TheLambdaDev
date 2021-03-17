@@ -8,4 +8,9 @@
  */
 
 rootProject.name = "TheLambdaDev"
-include("app", "list", "utilities")
+include(
+        "app",
+        "list",
+        "utilities",
+        "domain"
+)
